@@ -12,11 +12,10 @@ To use this code, you will need to have Python 3 and the following libraries ins
 
 ## File Description
 
-- `train.py`: This script trains the model and saves it to a file.
-- `predict.py`: This script loads the trained model and uses it to make predictions on the test set.
-- `model.pkl`: This is the file where the trained model will be saved.
-- `predictions.csv`: This is the file where the predictions on the test set will be saved.
-- `dataset/`: This directory contains the training and test datasets.
+- `train.csv`: Dataset used to train a machine learning model that predicts the survival of passengers on the Titanic.
+- `test.csv`: Dataset used to evaluate the performance of a machine learning model in predicting the survival of passengers on the Titanic.
+- `submission.csv`: Contains the predictions made by a machine learning model on the test set of the Titanic dataset.
+- `Titanic - Machine Learning.ipynb`: A Jupyter notebook containing the code for a machine learning model on the Titanic dataset. It includes code for training, prediction, and evaluation, and explanations of the steps taken.
 
 ## Credits
 

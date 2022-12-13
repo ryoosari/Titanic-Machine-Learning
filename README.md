@@ -20,3 +20,6 @@ To use this code, you will need to have Python 3 and the following libraries ins
 ## Credits
 
 The dataset for this project was provided by Kaggle and can be found [here](https://www.kaggle.com/c/titanic/data).
+
+Here is my Kaggle work:
+[https://www.kaggle.com/code/ryoosari/titanic-machine-learning-from-disaster/](https://www.kaggle.com/code/ryoosari/titanic-machine-learning-from-disaster/).
